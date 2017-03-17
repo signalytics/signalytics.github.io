@@ -2,8 +2,8 @@ name: Signalytics
 description: >
     Built for data scientists. Share your work and discover new data.
 about: >
-    Because we spend so much time on data wrangling, I made a simple attempt to reduce the time spent on such work. 
-    Signalytics is a simple threep step process that will enable you to collaborate with other data scientists.
+    Because we spend so much time on data wrangling, I made a modest attempt to reduce the time by creating a place to share your work. 
+    Signalytics is a simple threep step process that enables you to collaborate with other data scientists.
 
 
 url: "https://signalytics.github.io"
